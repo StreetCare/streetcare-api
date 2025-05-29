@@ -1,4 +1,6 @@
 Flask
-uvicorn
 pymysql
 flask-cors
+python-dotenv
+gunicorn
+bcrypt
